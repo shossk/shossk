@@ -1,6 +1,7 @@
-### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shossk)](https://github.com/shossk/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shossk&layout=compact&show_icons=true&theme=merko" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shossk&theme=merko&show_icons=ture" />
+</p>
 
 <!--
 **shossk/shossk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
